@@ -1964,7 +1964,7 @@
     (property "Reference" "RP2" (id 0) (at 184.15 78.74 0)
       (effects (font (size 1.016 1.016)))
     )
-    (property "Value" "2k2" (id 1) (at 196.85 78.74 0)
+    (property "Value" "1k" (id 1) (at 196.85 78.74 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Footprint" "kicad-libraries:0603X4" (id 2) (at 195.58 78.74 0)
@@ -2647,7 +2647,7 @@
       (reference "RP1") (unit 1) (value "82") (footprint "kicad-libraries:4X0402")
     )
     (path "/00000000-0000-0000-0000-000055ba021c"
-      (reference "RP2") (unit 1) (value "2k2") (footprint "kicad-libraries:0603X4")
+      (reference "RP2") (unit 1) (value "1k") (footprint "kicad-libraries:0603X4")
     )
     (path "/00000000-0000-0000-0000-00005a86ad72"
       (reference "U1") (unit 1) (value "XMC1100") (footprint "kicad-libraries:QFN24-4x4mm-0.5mm")
